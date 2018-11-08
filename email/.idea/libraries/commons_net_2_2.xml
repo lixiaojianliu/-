@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-net-2.2">
+    <CLASSES>
+      <root url="jar://D:/QQdownloads/commons-net-2.2.jar!/" />
+      <root url="jar://D:/QQdownloads/dnsjava-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
